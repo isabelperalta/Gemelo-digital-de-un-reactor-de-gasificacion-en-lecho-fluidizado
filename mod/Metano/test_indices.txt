@@ -1,0 +1,2 @@
+Índices usados como test:
+22, 17, 1, 12, 19, 5

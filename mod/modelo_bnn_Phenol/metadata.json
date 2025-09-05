@@ -1,0 +1,13 @@
+{
+  "param_file": "modelo_bnn_params.pt",
+  "guide": "AutoLowRankMultivariateNormal",
+  "n_in": 22,
+  "note": "robust script - posterior means when available",
+  "mlp_det": "mlp_det.pt",
+  "imputers_scalers": {
+    "imputer_X": "imputer_X.pkl",
+    "imputer_Y": "imputer_Y.pkl",
+    "scaler_X": "scaler_X.pkl",
+    "scaler_Y": "scaler_Y.pkl"
+  }
+}

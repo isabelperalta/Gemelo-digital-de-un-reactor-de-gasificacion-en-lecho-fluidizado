@@ -1,0 +1,4 @@
+Número de dato (test interno),Real (normalizado),Predicho Ensemble (normalizado),Real (desnormalizado),Predicho Ensemble (desnormalizado)
+3,2.5,1.8118106650438737,0.005,0.0036236213300877475
+19,0.5,1.0086764215053394,0.001,0.0020173528430106787
+0,2.0,2.0745633924523146,0.004,0.0041491267849046295

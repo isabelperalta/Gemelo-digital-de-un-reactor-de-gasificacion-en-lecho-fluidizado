@@ -1,0 +1,2 @@
+modelo,r2_interno,r2_externo,hidden_layer_sizes,activation,alpha,learning_rate_init
+1,0.6313267860366794,-104.15885796271935,"(5, 5)",tanh,0.001,0.0001

@@ -1,0 +1,11 @@
+{
+  "mlp_path": "mod\\CO2\\mlp_model_69.pkl",
+  "idx_modelo": 69,
+  "guide": "AutoDiagonalNormal",
+  "n_in_mlp": 22,
+  "scale_prior": 0.05,
+  "activation": "tanh",
+  "param_file": "modelo_bnn_params.pt",
+  "mlp_det": "mlp_det.pt",
+  "note": "from-MLP script; W_inits saved; W_means saved when extractable"
+}

@@ -1,0 +1,6 @@
+=== Ensemble resultados ===
+R² interno: 0.9720
+R² externo: -4.6106
+Modelos guardados en: MLP-biomasa1\modelos_mlp_biomasa1_CO2
+
+threshold=0.7
